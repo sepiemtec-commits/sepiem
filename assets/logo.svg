@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-label="SEPIEM">
+  <defs>
+    <linearGradient id="em" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#156582"/>
+      <stop offset="55%" stop-color="#1C8EAE"/>
+      <stop offset="100%" stop-color="#3AD4EE"/>
+    </linearGradient>
+  </defs>
+  <path d="M498 8h16a4 4 0 0 1 4 4v16L498 8z" fill="#D7E0E6"/>
+  <path d="M500 10h12l14 14V12a2 2 0 0 0-2-2h-10L500 10z" fill="#EEF3F6"/>
+  <text x="4" y="92" font-family="Outfit, Arial, Helvetica, sans-serif" font-size="96" font-weight="700" letter-spacing="-3">
+    <tspan fill="#3A434A">SEPI</tspan><tspan fill="url(#em)">EM</tspan>
+  </text>
+</svg>

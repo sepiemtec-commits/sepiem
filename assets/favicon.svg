@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#0d3a5c"/>
+  <path d="M20 3h9v9L20 3z" fill="#e8b423"/>
+  <text x="5" y="23" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">S</text>
+  <text x="14" y="23" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#3ad4ee">E</text>
+</svg>
